@@ -4,16 +4,13 @@ body {
     height: 100%;
     background: black;
 }
-.first-text {
-    background: transparent;
+.section1 {
     text-align: center;
     font-size-adjust: auto;
     color: white;
     font-family: font-family: 'Fira Sans', sans-serif;
-}
-.section1 {
     background: url(./assets/backgrounds/h_img.jpg); 
-    height: 100vh;
+    height: 680px;
 }
 .logo {
     margin-left: auto;
@@ -41,4 +38,5 @@ h1 {
     background: url(./assets/backgrounds/s_image.jpg);
     color: white;
     text-align: center;
+    font-family: font-family: 'Fira Sans', sans-serif;;
 }
