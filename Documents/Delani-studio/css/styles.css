@@ -67,7 +67,18 @@ h4 {
 }
 #design {
     display: none;
+    text-emphasis: bold;
 }
 #development {
     display: none;
+    text-emphasis: bold;
+}
+#Product {
+    display: none;
+    text-emphasis: bold;
+}
+h6 {
+    text-align: center;
+    text-emphasis: bold;
+    color: black;
 }
