@@ -51,3 +51,7 @@ h1 {
 h3 {
     text-emphasis: bold;
 }
+.section4 {
+    background: whitesmoke;
+    height: auto;
+}
