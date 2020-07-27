@@ -73,11 +73,6 @@ h4 {
     font-family: 'Fira Sans', sans-serif;
     background: url(./assets/backgrounds/c_image.jpg);
 }
-h6 {
-    text-align: center;
-    color: black;
-    text-emphasis: bold;
-}
 #shown-design {
     display: none;
 }
@@ -90,3 +85,4 @@ h6 {
 input[type=text],input[type=email],textarea[name=message] {
     background-color: transparent;
 }
+    
