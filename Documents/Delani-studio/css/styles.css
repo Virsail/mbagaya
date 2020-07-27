@@ -73,6 +73,7 @@ h4 {
     font-family: 'Fira Sans', sans-serif;
     background: url(./assets/backgrounds/c_image.jpg);
     color: white;
+    font-weight: 400;
 }
 #shown-design {
     display: none;
