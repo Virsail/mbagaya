@@ -75,5 +75,18 @@ h4 {
 }
 h6 {
     text-align: center;
-    color: white;
+    color: black;
+    text-emphasis: bold;
+}
+#shown-design {
+    display: none;
+}
+#shown-development {
+    display: none;
+}
+#shown-product {
+    display: none;
+}
+input[type=text],input[type=email],textarea[name=message] {
+    background-color: transparent;
 }
