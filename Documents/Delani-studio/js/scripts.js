@@ -6,8 +6,14 @@ $(document).ready(function() {
   });
 });
 $(document).ready(function() {
-  $(".toggle").click(function() {
+  $(".toggle1").click(function() {
     $("#shown-development").toggle();
     $("#hidden-development").toggle();
+  });
+});
+$(document).ready(function() {
+  $(".toggle2").click(function() {
+    $("#shown-product").toggle();
+    $("#hidden-product").toggle();
   });
 });
