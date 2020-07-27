@@ -69,3 +69,7 @@ h4 {
 .img-fluid {
     padding-bottom: 1rem;
 }
+.section6 {
+    font-family: 'Fira Sans', sans-serif;
+    background: url(./assets/backgrounds/c_image.jpg);
+}
