@@ -73,3 +73,7 @@ h4 {
     font-family: 'Fira Sans', sans-serif;
     background: url(./assets/backgrounds/c_image.jpg);
 }
+h6 {
+    text-align: center;
+    color: white;
+}
