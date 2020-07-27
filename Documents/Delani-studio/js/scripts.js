@@ -17,3 +17,25 @@ $(document).ready(function() {
     $("#hidden-product").toggle();
   });
 });
+ 
+$(document).ready(function() {
+  $(".cruiser").mouseover(function() {
+    $("#j1").show()
+  })
+  $(".cruiser").mouseleave(function(){
+    $("#j1").hide()
+  })
+  $(".cruiser1").mouseover(function() {
+    $("#j2").show()
+  })
+  $(".cruiser1").mouseleave(function(){
+    $("#j2").hide()
+  })
+})
+$(".cruiser2").mouseover(function() {
+  $("#j3").show()
+})
+$(".cruiser2").mouseleave(function(){
+  $("#j3").hide()
+})
+})
