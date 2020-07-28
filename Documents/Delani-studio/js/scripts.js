@@ -1,4 +1,4 @@
-alert("What's good awesome people,welcome to Delani Studio.It all happens here!");
+prompt("Are you ready for the ultimate Delani experience?");
 $(document).ready(function() {
   $(".toggle").click(function() {
     $("#shown-design").toggle();
